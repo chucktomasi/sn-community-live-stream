@@ -1,0 +1,6 @@
+<g:evaluate jelly="true">
+  var string = jelly.j_var1 + ' ' + jelly.jvar2;
+
+</g:evaluate>
+
+String = ${string}
