@@ -9,20 +9,20 @@ function loanerCIRefQual() {
 	var answer;
 	var req = {};
 	
-	if (current.variables.item_type) {
-		gs.info(">>>CATALOG ITEM");
-		req.depot = current.variables.depot.toString();
-		req.item_type = current.variables.item_type.toString();
-		req.work_start = current.variables.work_start;
-		req.work_end = current.variables.work_end;
-		
-	} else {
+	if (current.item_type) {
 		gs.info('>>>FORM');
 		req.depot = current.depot;
 		req.item_type = current.item_type;
 		req.work_start = current.work_start;
 		req.work_end = current.work_end;
 		
+	} else {
+		gs.info(">>>CATALOG ITEM");
+		req.depot = current.variables.depot.toString();
+		req.item_type = current.variables.item_type.toString();
+		req.work_start = current.variables.work_start;
+		req.work_end = current.variables.work_end;
+
 	}
 	
 	gs.info('>>>loanerCIRefQual(): ' + JSON.stringify(req, null, 4));
