@@ -1,4 +1,4 @@
-/*
+
     hasFinishedAllStations : function(workoutGr) {
 
 		var numberOfStations = parseInt(gs.getProperty('x_snc_health_club.stations'), 10);
@@ -44,4 +44,3 @@
 		}
 		return size;
 	},
-*/
