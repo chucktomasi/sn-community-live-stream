@@ -1,0 +1,170 @@
+{
+ "kind": "youtube#commentThreadListResponse",
+ "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/s7jC3JKVAq2btEIunPeu0f5kKlc\"",
+ "pageInfo": {
+  "totalResults": 5,
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/3nLU5JGtk1AKAgiivhcQrQrfwUE\"",
+   "id": "Ugwbbza-iB25eupenmF4AaABAg",
+   "snippet": {
+    "videoId": "62Nabpb94Jw",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/m4GvXna0toD6qEElIumaZKUzdMU\"",
+     "id": "Ugwbbza-iB25eupenmF4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Dhananjay Mali",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-E88nbCQgijk/AAAAAAAAAAI/AAAAAAAAAAA/w_h5B8N0Kw4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCDxxGraZSLGnW25r1OlSVfw",
+      "authorChannelId": {
+       "value": "UCDxxGraZSLGnW25r1OlSVfw"
+      },
+      "videoId": "62Nabpb94Jw",
+      "textDisplay": "@chuck can you make an video on planned maintenance for facility requests. That will be great to see how the OOTB module works.",
+      "textOriginal": "@chuck can you make an video on planned maintenance for facility requests. That will be great to see how the OOTB module works.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-07-15T12:24:25.000Z",
+      "updatedAt": "2019-07-15T12:24:25.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/bcFcXtQ0qWRGn4emfiD5oQivuI8\"",
+   "id": "UgwA9Vqp5RcQraKha4l4AaABAg",
+   "snippet": {
+    "videoId": "62Nabpb94Jw",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/RJ1rWYLYRH7Ibh4yEXUEkNsBzDk\"",
+     "id": "UgwA9Vqp5RcQraKha4l4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Eric Miller",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-DoeGcOJPeII/AAAAAAAAAAI/AAAAAAAAAAA/slZC69FilUc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCSFTNTh5n2cAOa0_E_Z2Juw",
+      "authorChannelId": {
+       "value": "UCSFTNTh5n2cAOa0_E_Z2Juw"
+      },
+      "videoId": "62Nabpb94Jw",
+      "textDisplay": "Awesome!  This will be an interesting series that will really help me.",
+      "textOriginal": "Awesome!  This will be an interesting series that will really help me.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-07-13T15:24:31.000Z",
+      "updatedAt": "2019-07-13T15:24:31.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/SE2Eu2zaoWmLAI_8XexA7jP6baw\"",
+   "id": "Ugx9xkg_toAgNZwZm8Z4AaABAg",
+   "snippet": {
+    "videoId": "62Nabpb94Jw",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/N8iUXLUHWmeHv8MEVZtNPJLMHzQ\"",
+     "id": "Ugx9xkg_toAgNZwZm8Z4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Karthik Parthasarathy",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-CZ7S5sE7aq4/AAAAAAAAAAI/AAAAAAAAAAA/ANflXUZhiFY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCHWoqQC99iPx6YBD_hKqPcw",
+      "authorChannelId": {
+       "value": "UCHWoqQC99iPx6YBD_hKqPcw"
+      },
+      "videoId": "62Nabpb94Jw",
+      "textDisplay": "Thank you very much. I am joining to watch all the series.",
+      "textOriginal": "Thank you very much. I am joining to watch all the series.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-07-13T10:39:07.000Z",
+      "updatedAt": "2019-07-13T10:39:07.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/xi6laDo-jNRTXvTMjTK3DlTo6gw\"",
+   "id": "UgxmtnmG6rB5DhCPgAx4AaABAg",
+   "snippet": {
+    "videoId": "62Nabpb94Jw",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/3iD6LREN9-5Mc8h7rgB5gBzdbeQ\"",
+     "id": "UgxmtnmG6rB5DhCPgAx4AaABAg",
+     "snippet": {
+      "authorDisplayName": "sandeep kumar paladugu",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Fg3jJi-qNro/AAAAAAAAAAI/AAAAAAAAAAA/1wvPgvf0O9o/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC4D2bjjSsMZQSNpBrio-zhA",
+      "authorChannelId": {
+       "value": "UC4D2bjjSsMZQSNpBrio-zhA"
+      },
+      "videoId": "62Nabpb94Jw",
+      "textDisplay": "Hi Chuck\u003cbr /\u003eCould you please provide videos on Integrations\u003cbr /\u003eI would like to learn Integrations in ServiceNow\u003cbr /\u003e\u003cbr /\u003eThank you",
+      "textOriginal": "Hi Chuck\nCould you please provide videos on Integrations\nI would like to learn Integrations in ServiceNow\n\nThank you",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-07-13T05:20:47.000Z",
+      "updatedAt": "2019-07-13T05:20:47.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/FSCA8y1GL4QfSzWQdXKK90LxOyI\"",
+   "id": "Ugx0v-tC1o6G-GPmT9h4AaABAg",
+   "snippet": {
+    "videoId": "62Nabpb94Jw",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/mhBnLyha2jNIMmSNCbg4hsUIVNk\"",
+     "id": "Ugx0v-tC1o6G-GPmT9h4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Kevin Eldridge",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-6SJ_3H-0FjU/AAAAAAAAAAI/AAAAAAAAAAA/lccMXze5XPA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC03HfKlDKmOyv0VwOq7lkOg",
+      "authorChannelId": {
+       "value": "UC03HfKlDKmOyv0VwOq7lkOg"
+      },
+      "videoId": "62Nabpb94Jw",
+      "textDisplay": "Thank you for sharing this Chuck!",
+      "textOriginal": "Thank you for sharing this Chuck!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2019-07-12T21:24:30.000Z",
+      "updatedAt": "2019-07-12T21:24:30.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   }
+  }
+ ]
+}
