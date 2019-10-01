@@ -1,0 +1,1 @@
+${gs.getMessage('cls528_hello', [current.getValue('name')])}
