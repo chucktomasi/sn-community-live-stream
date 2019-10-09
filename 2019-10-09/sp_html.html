@@ -1,0 +1,9 @@
+<div>
+  Length: {{data.table.length}}
+
+  <div ng-repeat="inc in data.table">
+    <span ng-if="!$first">NOT FIRST </span>
+    <span ng-if="!$last">NOT LAST</span>
+    {{$index + 1}}: {{inc.number}} - {{inc.short_description}}
+  </div>
+</div>
