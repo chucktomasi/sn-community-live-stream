@@ -1,0 +1,1 @@
+gs.getProperty('instance_name') == 'dev79001');
