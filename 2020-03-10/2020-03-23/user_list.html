@@ -1,0 +1,11 @@
+<div>
+{{c.data.name}}
+  
+  <div ng-repeat="user in c.data.list">
+    {{user.name}} | {{user.user_name}} | {{user.id}}
+  </div>
+  
+  <pre>
+  {{data | json}}
+  </pre>
+</div>
