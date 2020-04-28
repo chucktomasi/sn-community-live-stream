@@ -41,6 +41,7 @@ TemplateTask.prototype = {
 		
 		var todoGr = new GlideRecord(Constants.TODO_TABLE);
 		todoGr.setLimit(1);
+		todoGr.addQuery('video', videoGr.getUniqueValue());
 		todoGr.query();
 		
 		return todoGr.hasNext();
