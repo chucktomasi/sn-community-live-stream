@@ -1,0 +1,1 @@
+javascript:current.work_end < gs.minutesAgoEnd(0) && current.state==14

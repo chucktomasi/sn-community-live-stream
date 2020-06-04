@@ -1,0 +1,1 @@
+javascript:new LoanerUtil(current).ciRefQual()

@@ -1,0 +1,1 @@
+current.active && (current.opened_by == gs.getUserID() || gs.hasRole('x_orb_loaner.admin'))
