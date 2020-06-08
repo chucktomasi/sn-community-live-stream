@@ -1,0 +1,1 @@
+!current.work_start.nil() && !current.work_end.nil() && (current.work_start.changes() || current.work_end.changes())
