@@ -1,0 +1,26 @@
+<div>
+  Hello, {{c.data.userName}}!
+
+  <table class="table-striped">
+    <th>Name</th>
+    <th>Order</th>
+    <tr ng-repeat="row in c.data.table.list">
+      <td>
+        {{row.name}}
+      </td>
+      <td>
+        {{row.order}}
+      </td>
+      <td>
+        <button class="btn btn-success" name="orderButton" ng-click="showOrder(row.order)">
+          Order
+        </button>
+      </td>
+    </tr>
+  </table>
+<!--
+  <pre>
+  {{c.data.table | json }}
+  </pre>
+-->
+</div>
