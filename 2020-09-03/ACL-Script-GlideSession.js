@@ -1,0 +1,1 @@
+answer = gs.getSession().getClientData('program_manager');
