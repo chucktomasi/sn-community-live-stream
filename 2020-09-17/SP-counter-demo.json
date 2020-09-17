@@ -1,0 +1,7 @@
+{
+	"options": {
+		"tableName": "incident",
+			"filter" : "active=true^priority=1",
+				"label" : "Active P1 Inc"
+	}
+}

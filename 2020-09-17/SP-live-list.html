@@ -1,0 +1,13 @@
+<div>
+  {{c.data.table.label}}
+  <table class="table-striped">
+    <th ng-repeat="label in c.data.table.fieldLabels">
+      {{label}}
+    </th>
+    <tr ng-repeat="row in c.data.table.list">
+      <td ng-repeat="val in row">
+        {{val}}
+      </td>
+    </tr>
+  </table>
+</div>
