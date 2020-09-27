@@ -27,10 +27,10 @@
 	gr.query();
 
 	while (gr.next()) {
-		var obj = {};
+		var obj = [];
 		for (var j = 0; j < data.table.fieldList.length; j++) {
 			var f = data.table.fieldList[j];
-			obj[f] = gr.getDisplayValue(f);
+			obj[j] = gr.getDisplayValue(f);
 		}
 		data.table.list.push(obj);
 	}
