@@ -1,0 +1,38 @@
+<div>
+    <form>
+
+      <input type="hidden" name="id" ng-model="c.data.client.id">
+      
+      <div class="form-group rowContainer">
+        <label for="first_name">First name</label>
+        <input name="first_name" class="form-control" type="text" ng-model="c.data.client.first_name" ng-required="required">
+      </div>
+
+
+      <div class="form-group rowContainer">
+        <label for="last_name">Last name</label>
+        <input name="last_name" class="form-control" type="text" ng-model="c.data.client.last_name" ng-required="required">
+      </div>
+
+      <div class="form-group rowContainer">
+        <label for="email">Email</label>
+        <input name="email" class="form-control" type="text" ng-model="c.data.client.email" ng-required="required">
+      </div>
+
+      <div class="form-group rowContainer">
+        <label for="phone">Phone</label>
+        <input name="phone" class="form-control" type="text" ng-model="c.data.client.phone" ng-required="required">
+      </div>
+
+      <div class="form-group rowContainer">
+        <label for="actve">Active</label><br />
+        <input name="active" type="checkbox" ng-model="c.data.client.active">
+      </div>
+
+      <button class="btn btn-success" ng-click="submit(c.data.client)">
+        Save
+      </button>
+
+    </form>
+
+</div>
